@@ -3,3 +3,5 @@
 ################################################################################
 
 /SiteMV/WebMvc/bin/Debug/netcoreapp2.1
+/SiteMV/WebMvc/obj/Debug/netcoreapp2.1
+/WebMvc/obj
